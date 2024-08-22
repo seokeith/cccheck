@@ -1,5 +1,4 @@
 import streamlit as st
-pip install --upgrade pip
 
 # Function to calculate the score based on the ideal exchange rate
 def calculate_score(amount, exchange_rate):
